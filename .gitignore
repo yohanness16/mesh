@@ -25,7 +25,6 @@
 *.dylib
 
 # Executables
-node
 node_app
 test_runner
 *.exe
